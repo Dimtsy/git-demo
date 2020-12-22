@@ -25,6 +25,7 @@ Is there really no chance
 To start once again?
 I'm loving you.
 
+<<<<<<< HEAD
 Try, baby try
 To trust in my love again.
 I will be there, I will be there.
@@ -58,3 +59,7 @@ I'm still loving you,
 I need your love.
 I'm still loving you.
 Still loving you, baby...
+
+commit one
+commit two
+
